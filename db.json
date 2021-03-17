@@ -24,6 +24,11 @@
         { "id": 22, "short_name": "ATM", "full_name": "Asynchronous Transfer Mode" },
         { "id": 23, "short_name": "BAL", "full_name": "Basic Assembly Language" },
         { "id": 24, "short_name": "BER", "full_name": "Bit Error Rate" },
-        { "id": 25, "short_name": "BFD", "full_name": "Binary File Descriptor" }
+        { "id": 25, "short_name": "BFD", "full_name": "Binary File Descriptor" },
+        { "id": 26, "short_name": "BGP", "full_name": "Border Gateway Protocol" },
+        { "id": 27, "short_name": "BiDi", "full_name": "Bi – Directional" },
+        { "id": 28, "short_name": "BIN", "full_name": "Binary" },
+        { "id": 29, "short_name": "BASIC", "full_name": "Beginner All-Purpose Symbolic Instruction Code" },
+        { "id": 30, "short_name": "BCD", "full_name": "Binary Coded Decimal" }
     ]
 }
