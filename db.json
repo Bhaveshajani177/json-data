@@ -1,0 +1,29 @@
+{
+    "computer": [
+        { "id": 1, "short_name": "AAC", "full_name": "Advanced Audio Coding" },
+        { "id": 2, "short_name": "ABI", "full_name": "Application Binary Interface" },
+        { "id": 3, "short_name": "AHA", "full_name": "Accelerated Hub Architecture" },
+        { "id": 4, "short_name": "ALGOL", "full_name": "Algorithmic Language" },
+        { "id": 5, "short_name": "AJAX", "full_name": "Asynchronous JavaScript and XML" },
+        { "id": 6, "short_name": "ABR", "full_name": "Available Bit Rate" },
+        { "id": 7, "short_name": "AD", "full_name": "Active Directory" },
+        { "id": 8, "short_name": "ADC", "full_name": "Analog – to – Digital Converter / Apple Display Connector (DVIVariant)" },
+        { "id": 9, "short_name": "ALU", "full_name": "Arithmetic Logical Unit" },
+        { "id": 10, "short_name": "AMD", "full_name": "Advanced Micro Devices" },
+        { "id": 11, "short_name": "AMR", "full_name": "Audio Modern Riser" },
+        { "id": 12, "short_name": "APCI", "full_name": "Application – Layer Protocol Control Information" },
+        { "id": 13, "short_name": "ASP", "full_name": "Application Service Provider / Active Server Pages" },
+        { "id": 14, "short_name": "AST", "full_name": "Abstract Syntax Tree" },
+        { "id": 15, "short_name": "ATA", "full_name": "Advanced Technology Attachmen" },
+        { "id": 16, "short_name": "API", "full_name": "Application Programming Interface" },
+        { "id": 17, "short_name": "AVC", "full_name": "Advanced Video Coding" },
+        { "id": 18, "short_name": "AVI", "full_name": "Audio Video Interleaved" },
+        { "id": 19, "short_name": "AWT", "full_name": "Abstract Window ToolKit" },
+        { "id": 20, "short_name": "ARPANET", "full_name": "Advanced Research Projects Agency Network" },
+        { "id": 21, "short_name": "ASCII", "full_name": "American Standard Code for Information Interchange" },
+        { "id": 22, "short_name": "ATM", "full_name": "Asynchronous Transfer Mode" },
+        { "id": 23, "short_name": "BAL", "full_name": "Basic Assembly Language" },
+        { "id": 24, "short_name": "BER", "full_name": "Bit Error Rate" },
+        { "id": 25, "short_name": "BFD", "full_name": "Binary File Descriptor" }
+    ]
+}
